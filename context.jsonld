@@ -4,6 +4,6 @@
         "dct": "http://purl.org/dc/terms/",
         "bf": "http://id.loc.gov/ontologies/bibframe-2-2-0/",
         "spatial":"dct:spatial",
-        "role":"bf:role"
+        "role":"bf:Role"
     }
 }
